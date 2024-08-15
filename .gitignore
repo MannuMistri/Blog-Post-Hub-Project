@@ -1,0 +1,4 @@
+.venv
+.idea
+posts.db
+DS_Store
